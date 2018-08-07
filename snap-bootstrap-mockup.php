@@ -38,47 +38,58 @@
 
 
       <!--Main Body-->
-
+	<div class="container justify-content-center">
       <div class="row">
-         <div class="col-md-3">
+         <div class="card col-md-3">
+				<div class="card-body">
+					<h5 class="card-header">Riker</h5>
+					<p class="card-text">
+						Captain, why are we out here chasing comets? Talk about going nowhere fast. The game's not big enough unless it scares you a little. Your head is not an artifact!
+					</p>
+				</div>
+         </div>
+			<div class="card col-md-3">
+				<div class="card-body">
+					<h5 class="card-header">Ipsum</h5>
+					<p class="card-text">
+						I've had twelve years to think about it. And if I had to do it over again, I would have grabbed the phaser and pointed it at you instead of them.
+					</p>
+				</div>
+			</div>
+			<div class="card col-md-3">
+				<div class="card-body">
+					<h5 class="card-header">===</h5>
+					<p class="card-text">
+						Well, that's certainly good to know. I'll be sure to note that in my log. My oath is between Captain Kargan and myself. Your only concern is with how you obey my orders.
+					</p>
+				</div>
+			</div>
+			<div class="card col-md-3">
+				<div class="card-body">
+					<h5 class="card-header"><3</h5>
+					<p class="card-text">
+						Well, that's certainly good to know. I'll be sure to note that in my log. My oath is between Captain Kargan and myself. Your only concern is with how you obey my orders.
+					</p>
+				</div>
+			</div>
+      <div class="row">
+         <div class="col-md-4">
             <p class="">
                This is where a par. will go.
             </p>
          </div>
-         <div class="col-md-3">
+         <div class="col-md-4">
             <p class="">
                This is where a par. will go.
             </p>
          </div>
-         <div class="col-md-3">
-            <p class="">
-               This is where a par. will go.
-            </p>
-         </div>
-         <div class="col-md-3">
+         <div class="col-md-4">
             <p class="">
                This is where a par. will go.
             </p>
          </div>
       </div>
-      <div class="row">
-         <div class="col-md-4">
-            <p class="">
-               This is where a par. will go.
-            </p>
-         </div>
-         <div class="col-md-4">
-            <p class="">
-               This is where a par. will go.
-            </p>
-         </div>
-         <div class="col-md-4">
-            <p class="">
-               This is where a par. will go.
-            </p>
-         </div>
-      </div>
-
+	</div>
 
    </body>
 </html>
