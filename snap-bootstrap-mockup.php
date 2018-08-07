@@ -7,11 +7,9 @@
       <title>ST: TNG</title>
       <!--CSS Styling: Bootstrap 4 only-->
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
-
-
    </head>
    <body>
-      <nav class="navbar navbar-expand-lg navbar-light bg-blue">
+      <nav class="navbar navbar-expand-lg navbar-light bg-dark">
          <a href="#"><img width="50px" src="clipart.jpg" alt=""/></a>
          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -39,11 +37,47 @@
       </nav>
 
 
+      <!--Main Body-->
 
-
-
-
-
+      <div class="row">
+         <div class="col-md-3">
+            <p class="">
+               This is where a par. will go.
+            </p>
+         </div>
+         <div class="col-md-3">
+            <p class="">
+               This is where a par. will go.
+            </p>
+         </div>
+         <div class="col-md-3">
+            <p class="">
+               This is where a par. will go.
+            </p>
+         </div>
+         <div class="col-md-3">
+            <p class="">
+               This is where a par. will go.
+            </p>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-md-4">
+            <p class="">
+               This is where a par. will go.
+            </p>
+         </div>
+         <div class="col-md-4">
+            <p class="">
+               This is where a par. will go.
+            </p>
+         </div>
+         <div class="col-md-4">
+            <p class="">
+               This is where a par. will go.
+            </p>
+         </div>
+      </div>
 
 
    </body>
