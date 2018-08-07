@@ -72,7 +72,7 @@
 					</p>
 				</div>
 			</div>
-      <div class="row">
+      <div class="row justify-content-center">
          <div class="col-md-4">
             <p class="">
                This is where a par. will go.
@@ -90,6 +90,7 @@
          </div>
       </div>
 	</div>
+	<!-- /container-->
 
    </body>
 </html>
